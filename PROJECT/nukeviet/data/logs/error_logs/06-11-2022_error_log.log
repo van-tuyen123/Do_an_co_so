@@ -1,0 +1,5 @@
+[Sun, 06 Nov 2022 21:18:49 +0700] [localhost] [::1] [Warning(2): Undefined array key "config"] [FILE: /admin/themes/activatetheme.php] [LINE: 137]
+[Sun, 06 Nov 2022 22:23:01 +0700] [localhost] [::1] [Run-time notices(8192): http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated] [FILE: /vendor/vinades/nukeviet/Http/Http.php] [LINE: 200]
+[Sun, 06 Nov 2022 22:54:06 +0700] [localhost] [::1] [Warning(2): file_get_contents(C:/xampp/htdocs/nukeviet/themes/phenikaa-test/config.ini): Failed to open stream: No such file or directory] [FILE: /modules/news/global.functions.php] [LINE: 255]
+[Sun, 06 Nov 2022 22:54:06 +0700] [localhost] [::1] [Warning(2): file_get_contents(C:/xampp/htdocs/nukeviet/themes/phenikaa-test/config.ini): Failed to open stream: No such file or directory] [FILE: /modules/news/global.functions.php] [LINE: 282]
+[Sun, 06 Nov 2022 22:54:49 +0700] [localhost] [::1] [Warning(2): file_get_contents(C:/xampp/htdocs/nukeviet/themes/phenikaa-test/blocks\global.nav_left.tpl): Failed to open stream: No such file or directory] [FILE: /includes/xtemplate.class.php] [LINE: 1395]

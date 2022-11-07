@@ -1,0 +1,5 @@
+[Mon, 07 Nov 2022 11:28:21 +0700] [localhost] [::1] [Warning(2): preg_replace(): Compilation failed: invalid range in character class at offset 8] [FILE: /includes/core/filesystem_functions.php] [LINE: 166]
+[Mon, 07 Nov 2022 11:28:21 +0700] [localhost] [::1] [Warning(2): preg_replace(): Compilation failed: invalid range in character class at offset 8] [FILE: /includes/core/filesystem_functions.php] [LINE: 194]
+[Mon, 07 Nov 2022 11:28:21 +0700] [localhost] [::1] [Run-time notices(8192): preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated] [FILE: /includes/core/filesystem_functions.php] [LINE: 226]
+[Mon, 07 Nov 2022 11:28:21 +0700] [localhost] [::1] [Warning(2): preg_replace(): Compilation failed: invalid range in character class at offset 8] [FILE: /includes/core/filesystem_functions.php] [LINE: 204]
+[Mon, 07 Nov 2022 11:29:25 +0700] [localhost] [::1] [Warning(2): exif_read_data(banner-web.jpg): Incorrect APP1 Exif Identifier Code] [FILE: /vendor/vinades/nukeviet/Files/Upload.php] [LINE: 1079]
